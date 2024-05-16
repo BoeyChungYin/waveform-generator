@@ -6,8 +6,10 @@ The waveform generator was programmed in C programming language on a system runn
 ### Real-time techniques
 The program consists of 3 seperate threads that communicate and synchronise to ensure timely and uninterrupted output of the waveform. Waveform parameters such as amplitude, frequency, and mean value can be adjusted using hardware inputs from toggle switches and potentiometer.
 
-**insert image**
-
+<p>
+  <img src="images/threads.PNG">
+  <br/>
+</p>
 <p>
   <img src="images/hardware.jpg">
   <br/>
